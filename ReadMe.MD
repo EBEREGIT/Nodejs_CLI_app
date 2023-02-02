@@ -1,4 +1,4 @@
-# Airplane Order Dashboard
+# Nodejs CRUD Command Line Application
 This repository contains the code for a CRUD CLI application built with nodejs.
 
 See [Tutorial here]()
